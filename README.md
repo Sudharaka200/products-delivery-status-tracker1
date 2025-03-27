@@ -35,5 +35,5 @@ This application tracks shipments, compares carrier performance, and provides re
 ### Frontend Setup (Next.js)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/product-delivery-tracker.git
+   git clone https://github.com/Sudharaka200/product-delivery-tracker.git
    cd product-delivery-tracker/frontend
